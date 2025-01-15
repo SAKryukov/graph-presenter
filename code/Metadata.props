@@ -1,0 +1,33 @@
+﻿<!--
+    Copyright (C) 2024 by Sergey A Kryukov
+    https://www.SAKryukov.org
+    https://github.com/SAKryukov
+    https://www.codeproject.com/Members/SAKryukov
+-->
+
+<Project>
+
+  <PropertyGroup> <!-- customize:  -->
+
+    <TargetFramework>net5.0</TargetFramework>
+    <CustomUnifiedVersion>0.2.0.0</CustomUnifiedVersion>
+    <!-- can be alpha, beta, RC1, RC2, etc.: -->
+    <CustomInformationalVersionSuffix></CustomInformationalVersionSuffix>
+
+    <Copyright>Copyright © 2022-2025 Sergey A Kryukov</Copyright>
+    <Product>Graph Presenter</Product>
+    <Description>Netadata-driven Graph Presenter, represents editable or read-only arbitrary object graph defined by data contract</Description>
+    <Company>SA</Company>
+    <AssemblyTitle>$(Product) Demo</AssemblyTitle>
+
+    <Authors>Sergey A Kryukov</Authors>
+
+    <RootNamespace>SA</RootNamespace>
+
+  </PropertyGroup>
+
+  <PropertyGroup> <!-- customize:  -->
+    <RootNamespace>SA</RootNamespace>
+  </PropertyGroup>
+
+</Project>
